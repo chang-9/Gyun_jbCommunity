@@ -1,0 +1,18 @@
+.space {
+   background:#FFFFFF;
+   float:left; margin:0;
+   padding:0;
+   cursor:default;
+ }
+.bar {
+  background:#000000;
+  float:left; margin:0;
+  padding:0;
+  cursor:default;
+ }
+.bartext {
+  clear:both;
+  font-family:Fixedsys,Arial;
+  font-size:12px;
+  cursor:default;
+ }

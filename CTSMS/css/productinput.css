@@ -1,0 +1,16 @@
+.tit_bdy1 {
+padding-left: 28px;
+margin-left: 40px !important;
+    font-size: 23px !important;
+    font-weight: bold !important;
+    color: #333 !important;
+	background: url(../images/tit_bdy.png) no-repeat 0 4px;
+    margin: -4px 0 13px;
+}
+
+
+.modal .modal-header {
+   border: none !important;
+    padding: 14px 25px !important;
+	margin-bottom: 10px;
+}
